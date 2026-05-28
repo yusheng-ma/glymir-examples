@@ -24,6 +24,12 @@ Each example is runnable in browser via the [Glymir Playground](#) (link TBD) or
 
 The fastest path is [`ex100_fifo`](./ex100_fifo) — minimal design, ~3 minutes end-to-end.
 
+## Try in Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) &nbsp; *(notebook coming soon — link will swap in when the public Colab is published.)*
+
+The Colab path bundles Verilator + the Advisor binary + sample designs; you can run the full Advisor → CloudSim → Find loop in a browser tab without installing anything locally.
+
 ## Contributing
 
 See [`_template/`](./_template) for the example structure. PRs welcome.
