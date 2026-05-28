@@ -18,7 +18,7 @@ A parameterized synchronous FIFO with `empty` / `full` / `almost_empty` / `almos
 
 ## Try it (when ready)
 
-Open in [Glymir Playground →](#?example=ex100_fifo) — link pending Playground launch.
+Hands-on path via the Glymir Playground — link will be added when the public sandbox endpoint is stable.
 
 ## Why this example
 
